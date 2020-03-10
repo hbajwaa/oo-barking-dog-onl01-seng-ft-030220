@@ -1,4 +1,4 @@
-Class Dog 
+class Dog 
   def name=(dog_name)
     @dogs_name = dog_name
   end
@@ -11,3 +11,4 @@ Class Dog
     puts "Woof!"
   end
 end
+
