@@ -4,4 +4,10 @@ Class Dog
   end
   
   def name
+    return @dogs_name
+  end
+  
+  def bark
+    puts "Woof!"
+  end
 end
